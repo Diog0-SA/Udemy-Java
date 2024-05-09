@@ -8,7 +8,7 @@ Professor: Leonardo Moura Leitão, Cod3r Cursos Online.
 
 Sobre o curso: Fundamentos Java, Orientação a Objeto, Programação Funcional, MySQL, MongoDB, Spring Boot, JavaFX, JPA, Hibernate e mais.
 
-(Dados da plataforma udemy)
+
 
 
 
@@ -34,3 +34,5 @@ Sobre o curso: Fundamentos Java, Orientação a Objeto, Programação Funcional,
 - Bando de Dados NÃO Relacional (NoSQL)
 - JPA (Hibernate)
 - Spring Boot
+
+(Dados da plataforma udemy)
