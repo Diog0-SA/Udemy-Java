@@ -19,6 +19,10 @@ Sobre o curso: Fundamentos Java, Orientação a Objeto, Programação Funcional,
 ## Sobre a seção
 Nessa seção aprendemos sobre as estruturas de controle, como: aprender sobre o IF; ELSE e ELSE IF, WHILE, FOR, DO/WHILE, SWITCH, BREAK e CONTINUE.
 
+Tempo: 2h 25m
+
+Quantidade de desafios: 5
+
 ## Local dos arquivos
 
 
