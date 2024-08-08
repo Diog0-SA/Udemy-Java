@@ -18,7 +18,7 @@ Sobre o curso: Fundamentos Java, Orientação a Objeto, Programação Funcional,
 - Vídeo: 77 horas no total
 
 ## Sobre a seção
-Nessa seção aprendemos sobre os fundamentos do Java, Como primeiro programa, organização dos arquivos, comentários, variáveis, constantes, tipos, notação ponto, import, tipo String, console, objeto vs primitivo, Wrappers, conversão de tipos, operadores aritméricos; lógicos; relacionais; atribuição; unários e ternário, JRE VS JDK e Java VS Javac
+Nessa seção aprendemos sobre os fundamentos do Java, Como: primeiro programa, organização dos arquivos, comentários, variáveis, constantes, tipos, notação ponto, import, tipo String, console, objeto vs primitivo, Wrappers, conversão de tipos, operadores aritméricos; lógicos; relacionais; atribuição; unários e ternário, JRE VS JDK e Java VS Javac
 
 ## Local dos arquivos
 
