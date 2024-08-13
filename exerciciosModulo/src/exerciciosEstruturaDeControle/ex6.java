@@ -9,7 +9,7 @@ import java.util.Scanner;
  
  13/08/24
  */
-public class seis {
+public class ex6 {
 
 	public static void main(String[] args) {
 		

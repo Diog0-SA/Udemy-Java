@@ -11,7 +11,7 @@ import java.util.Scanner;
   
   12/08/24
  */
-public class tres {
+public class ex3 {
 
 	public static void main(String[] args) {
 		

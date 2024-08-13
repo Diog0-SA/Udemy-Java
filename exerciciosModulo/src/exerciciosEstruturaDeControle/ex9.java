@@ -6,7 +6,7 @@ import java.util.Scanner;
  
  13/08/24
  */
-public class nove {
+public class ex9 {
 
 	public static void main(String[] args) {
 		

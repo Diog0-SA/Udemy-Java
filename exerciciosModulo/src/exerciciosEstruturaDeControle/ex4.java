@@ -5,7 +5,7 @@ import java.util.Scanner;
  
  13/08/24
  */
-public class quatro {
+public class ex4 {
     
 	// Verifica se um número é primo
     public static boolean Primo(int n) {

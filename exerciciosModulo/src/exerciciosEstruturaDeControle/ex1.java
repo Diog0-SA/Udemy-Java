@@ -7,7 +7,7 @@ import java.util.Scanner;
  * 
  * 12/08/24
  */
-public class Um {
+public class ex1 {
 
 	public static void main(String[] args) {
 		

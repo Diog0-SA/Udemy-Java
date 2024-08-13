@@ -6,7 +6,7 @@ import java.util.Calendar;
  
  12/08/24
 */
-public class dois {
+public class ex2 {
 
 	public static void main(String[] args) {
 		

@@ -5,7 +5,7 @@ import java.util.Scanner;
  
  13/08/24
  */
-public class cinco {
+public class ex5 {
 
 		public static void main(String[] args) {
 			/** 5. Refatorar o exercício 04, utilizando a estrutura switch. */
