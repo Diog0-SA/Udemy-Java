@@ -1,4 +1,4 @@
-package exercicios;
+package exerciciosEstruturaDeControle;
 //import java.time.LocalDate;
 import java.util.Calendar;
 /*
