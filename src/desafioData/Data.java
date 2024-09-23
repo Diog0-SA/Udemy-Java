@@ -2,16 +2,16 @@ package desafioData;
 // Aula 95 - 28/08/24
 public class Data {
 
-	int dia;
-	int mes;
-	int ano;
+	public int dia;
+	public int mes;
+	public int ano;
 	
-	String obterDataFormatada(){
+	public String obterDataFormatada(){
 		/*
 		String data = dia + " / " + mes + " / " + ano;
 		return data;
 		*/
-		return String.format("%d/%d/%d\n", ano, mes, ano);
+		return String.format("%d/%d/%d\n", dia, mes, ano);
 	}
 	
 	void imprimirDataFormatada() {
@@ -27,7 +27,7 @@ public class Data {
 		ano = 1970;
 	}
 	
-	Data(int diaInicial, int mesInicial, int anoInicial){
+	public Data(int diaInicial, int mesInicial, int anoInicial){
 		dia = diaInicial;
 		mes = mesInicial;
 		ano = anoInicial;
